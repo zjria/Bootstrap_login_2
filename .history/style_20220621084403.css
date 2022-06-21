@@ -1,0 +1,50 @@
+body{
+    background-color: #585858;
+    color: rgb(204, 204, 204);
+}
+.login-form form{
+    background-color: rgb(37, 37, 37);
+    max-width: 400px;
+    margin: auto;
+    padding: 40px 60px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 0px 2px 10px rgb(131, 130, 130);
+}
+.login-form .form-name{
+    text-align: center;
+    font-size: 40px;
+    color: #78c2ad;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 25px;
+    line-height: 80px;
+}
+.login-form .item{
+    border-radius: 10px;
+    margin-bottom: 25px;
+    padding: 10px 20px;    
+}
+.login-form .login-account{
+    border-radius: 20px;
+    padding: 10px 20px;   
+    font-weight: bold;
+    background-color: #78c2ad;
+    border: none;
+    margin-top: 20px; 
+    color: #fff;
+}
+.login-form .form-group{
+    color: #78c2ad;
+}
+.login-form .social-media{
+    max-width: 400px;
+    background-color: rgb(37, 37, 37);
+    margin:auto;
+    padding: 30px 0px;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    color: #78c2ad;
+    border-top: 1px;
+}
